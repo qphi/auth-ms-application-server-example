@@ -1,0 +1,26 @@
+{
+  "name": "auth-ms-application-server-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qphi/auth-ms-application-server-example.git"
+  },
+  "author": {
+    "name": "quentin.philippot"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qphi/auth-ms-application-server-example/issues"
+  },
+  "homepage": "https://github.com/qphi/auth-ms-application-server-example#readme",
+  "dependencies": {
+    "micro": "git+https://github.com/qphi/micro.git",
+    "rest-api": "git+https://github.com/qphi/rest-api.git",
+    "auth-ms-plugin": "git+https://github.com/qphi/auth-ms-plugin.git"
+  }
+}
